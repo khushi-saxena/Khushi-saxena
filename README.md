@@ -2,8 +2,8 @@
 
 I am Khushi Saxena, currently pursuing my Bachelor Of Technology in Computer Science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-khushiSaxena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi321/)](https://www.linkedin.com/in/khushi321/)
-[![Gmail Badge](https://img.shields.io/badge/-KhushiSaxena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khushisaxenaa32@gmail.com)](mailto:khushisaxenaa32@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi321/)](https://www.linkedin.com/in/khushi321/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khushisaxenaa32@gmail.com)](mailto:khushisaxenaa32@gmail.com)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Logo">](https://khushi321.medium.com/)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://khushi0321.github.io/portfolio/#/)
 
