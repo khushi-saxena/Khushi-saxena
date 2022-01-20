@@ -44,7 +44,7 @@ I am Khushi Saxena, currently pursuing my Bachelor Of Technology in Computer Sci
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Khushi0321&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi0321&theme=tokyonight" />
 </p>
-<br><br>
+<br>
 <!-- <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img src="https://github-profile-trophy.vercel.app/?username=Khushi0321&theme=nord&column=7" alt="Trophies" />
