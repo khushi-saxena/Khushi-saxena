@@ -9,7 +9,7 @@ I am Khushi Saxena, currently pursuing my Bachelor Of Technology in Computer Sci
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://salonix.medium.com/)](https://khushi-saxena.medium.com/)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://khushi0321.github.io/portfolio/#/) 
 
-[![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Khushi0321&theme=react-dark&bg_color=20232a&hide_border=true&area=true)](https://git.io/khushi-saxena)
+[![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Khushi-saxena&theme=react-dark&bg_color=20232a&hide_border=true&area=true)](https://git.io/khushi-saxena)
 
 ## ⚡ Technologies
 
@@ -41,16 +41,16 @@ I am Khushi Saxena, currently pursuing my Bachelor Of Technology in Computer Sci
 
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Khushi0321&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi0321&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Khushi-saxena&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-saxena&theme=tokyonight" />
 </p>
 <br>
-<!-- <div align="center">
+<div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=Khushi0321&theme=nord&column=7" alt="Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Khushi-saxena&theme=nord&column=7" alt="Trophies" />
     </a>
   </div>
-</div> -->
+</div> 
 
 ### PROFILE VIEWS 
 ![VisitorCount](https://profile-counter.glitch.me/Khushi0321/count.svg)
