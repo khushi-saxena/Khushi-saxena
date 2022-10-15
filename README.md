@@ -45,11 +45,11 @@ I am Khushi Saxena, currently pursuing my Bachelor Of Technology in Computer Sci
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-saxena&theme=tokyonight" />
 </p>
 <br>
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img src="https://github-profile-trophy.vercel.app/?username=Khushi-saxena&theme=nord&column=7" alt="Trophies" />
     </a>
-  </div>
+  </div> -->
 </div> 
 
 ### PROFILE VIEWS 
