@@ -9,7 +9,7 @@ I am Khushi Saxena, currently pursuing my Bachelor Of Technology in Computer Sci
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://salonix.medium.com/)](https://khushi-saxena.medium.com/)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://khushi-saxena.github.io/portfolio/#/) 
 
-[![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Khushi-saxena&theme=react-dark&bg_color=20232a&hide_border=true&area=true)](https://git.io/khushi-saxena)
+[![Khushi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=khushi-saxena&theme=dracula)](https://github.com/khushi-saxena/github-readme-activity-graph)
 
 ## ⚡ Technologies
 
