@@ -120,14 +120,6 @@ I'm a passionate **Computer Science student** pursuing my Bachelor of Technology
 ---
 
 <div align="center">
-  <img src="https://github.com/khushi-saxena/khushi-saxena/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-</div>
-
-> **Note:** The snake animation will appear once the GitHub Action runs. You can trigger it manually from the Actions tab in your repository!
-
----
-
-<div align="center">
   <h3>Thanks for visiting! 👋</h3>
   <p>Feel free to reach out if you'd like to collaborate on exciting projects!</p>
 </div>
