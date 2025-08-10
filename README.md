@@ -84,7 +84,7 @@ I'm a passionate **Computer Science student** pursuing my Bachelor of Technology
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=khushi-saxena&theme=dracula&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushi-saxena&theme=dracula&hide_border=true&bg_color=0d1117&color=c9d1d9&line=8B5CF6&point=c9d1d9" alt="Activity Graph" />
 </div>
 
 ---
@@ -122,6 +122,39 @@ I'm a passionate **Computer Science student** pursuing my Bachelor of Technology
 <div align="center">
   <img src="https://github.com/khushi-saxena/khushi-saxena/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </div>
+
+<!-- 
+To enable the snake animation, you need to:
+1. Create a .github/workflows/snake.yml file in your repository
+2. Add the following content to snake.yml:
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: khushi-saxena
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
+          snake_color: 'blue'
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
 
 ---
 
